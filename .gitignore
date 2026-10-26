@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 eslint.config.js
 vite.config.js
+
+.oxlintrc.json
+vite.config.js
